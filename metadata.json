@@ -1,0 +1,6 @@
+{
+  "name": "7 Vape Taman Sri Gombak - Online Store",
+  "description": "Browse vape pods, devices, e-liquids and accessories from 7 Vape Taman Sri Gombak. Add to cart and order directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
